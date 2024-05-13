@@ -12,6 +12,8 @@ La aplicación utiliza una base de datos MySQL para almacenar la información.
 - Spring Boot
 - MySQL
 - Maven
+- Lombok
+- Gson
 
 ## Estructura del Proyecto
 

@@ -9,7 +9,7 @@
 	</parent>
 
 	<artifactId>clientes-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>clientes-service</name>
 	<description>Clientes microservice</description>
 
